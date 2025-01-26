@@ -1,4 +1,4 @@
-# Week_11_first_task
+# week11_first_task
 
 Задание: Создание простого ToDo List
 
